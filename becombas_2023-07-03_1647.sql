@@ -1,6 +1,6 @@
 --
 -- PostgreSQL database dump
---
+-- vamos a verificar si podemos hacer los cambios y hacer push al servidor web
 
 -- Dumped from database version 12.3
 -- Dumped by pg_dump version 12.3
