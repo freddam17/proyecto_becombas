@@ -4,7 +4,7 @@
 
 -- Dumped from database version 12.3
 -- Dumped by pg_dump version 12.3
-
+--
 SET statement_timeout = 0;
 SET lock_timeout = 0;
 SET idle_in_transaction_session_timeout = 0;
