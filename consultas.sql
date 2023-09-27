@@ -1,3 +1,5 @@
+-- Karencita estuvo aquí
+
 select
 	tx.co_bloque::integer,
 	fbscript(tx.co_bloque) as fbscript
